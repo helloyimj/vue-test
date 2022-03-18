@@ -1,0 +1,20 @@
+.DS_Store
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+.history
+.cache
+*.zip
+*.psd
+**/bin/
+**/zoom.txt
+**/.eslintcache
